@@ -1,0 +1,25 @@
+.tex{
+    font-size: xx-large;
+    color: white;
+    text-align: end;
+    width: 100%;
+}
+.form-inline{
+    background-color: rgb(0, 225, 255);
+    padding:  7%;
+}
+.form-control{
+
+
+padding: .375rem 12.75rem !important;
+}
+.d-btn{
+    padding: 20px;
+    margin: 4px;
+    border:solid white;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
+    background-color: rgb(25, 0, 255);
+}
